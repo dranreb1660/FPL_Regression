@@ -1,0 +1,611 @@
+name,position,team,GW,OPP,Pts,Mins.P,Gls_S,Assists,Cln_Sht,Gls_Csd,Own_gls,Pen_Sc,Pen_Msd,YC,RC,Saves,Bonus,BPS,Inf,Crt,Thrt,ICT,Net_T,SB,price_£
+Bruno Miguel Borges Fernandes,Midfielder,Man Utd,14,LEE (H) 6 - 2,17,70,2,1,0,1,0,0,0,0,0,0,2,64,94.0,36.9,54.0,18.5,-5647,3248370,11.0
+Harry Kane,Forward,Spurs,14,LEI (H) 0 - 2,2,90,0,0,0,2,0,0,0,0,0,0,0,7,11.6,8.3,35.0,5.5,134670,3290617,11.0
+Heung-Min Son,Midfielder,Spurs,14,LEI (H) 0 - 2,2,90,0,0,0,2,0,0,0,0,0,0,0,3,12.6,42.5,55.0,11.0,154155,4746191,9.7
+Mohamed Salah,Midfielder,Liverpool,14,CRY (A) 0 - 7,16,33,2,1,0,0,0,0,0,0,0,0,2,52,86.6,14.2,26.0,12.7,264071,2925498,12.4
+Emiliano Martínez,Goalkeeper,Aston Villa,14,WBA (A) 0 - 3,6,90,0,0,1,0,0,0,0,0,0,1,0,20,4.2,0.0,0.0,0.4,125309,2114994,4.9
+Patrick Bamford,Forward,Leeds,14,MUN (A) 6 - 2,2,90,0,0,0,6,0,0,0,0,0,0,0,1,3.0,0.5,29.0,3.3,95233,3209689,6.3
+Jamie Vardy,Forward,Leicester,14,TOT (A) 0 - 2,12,87,1,1,1,0,0,0,0,0,0,0,3,44,45.6,21.4,109.0,17.6,-180913,2065491,10.2
+Marcus Rashford,Midfielder,Man Utd,14,LEE (H) 6 - 2,2,70,0,0,0,1,0,0,0,0,0,0,0,14,13.8,14.4,51.0,7.9,148472,688683,9.5
+Ollie Watkins,Forward,Aston Villa,14,WBA (A) 0 - 3,2,90,0,0,1,0,0,0,0,0,0,0,0,0,5.6,4.6,29.0,3.9,-19687,612836,6.1
+Stuart Dallas,Defender,Leeds,14,MUN (A) 6 - 2,5,90,1,0,0,6,0,0,0,0,0,0,0,26,45.2,6.5,29.0,8.1,48925,615705,4.6
+Dominic Calvert-Lewin,Forward,Everton,14,ARS (H) 2 - 1,4,90,0,1,0,1,0,0,0,1,0,0,0,8,1.6,1.5,15.0,1.8,67501,4648980,7.9
+Illan Meslier,Goalkeeper,Leeds,14,MUN (A) 6 - 2,1,90,0,0,0,6,0,0,0,0,0,8,0,23,60.2,0.0,0.0,6.0,-1904,421572,4.6
+Ederson Santana de Moraes,Goalkeeper,Man City,14,SOU (A) 0 - 1,6,90,0,0,1,0,0,0,0,1,0,3,0,23,22.4,0.0,0.0,2.2,-13927,464565,6.0
+Ilkay Gündogan,Midfielder,Man City,14,SOU (A) 0 - 1,3,90,0,0,1,0,0,0,0,0,0,0,0,12,13.6,19.7,17.0,5.0,4633,25035,5.4
+James Ward-Prowse,Midfielder,Southampton,14,MCI (H) 0 - 1,1,90,0,0,0,1,0,0,0,1,0,0,0,18,16.0,37.4,0.0,5.3,-24734,1378449,6.3
+Mason Mount,Midfielder,Chelsea,14,WHU (H) 3 - 0,6,90,0,1,1,0,0,0,0,0,0,0,0,29,40.6,61.7,11.0,11.3,-8429,458124,6.9
+Raheem Sterling,Midfielder,Man City,14,SOU (A) 0 - 1,8,90,1,0,1,0,0,0,0,0,0,0,0,20,38.0,4.5,28.0,7.1,-13309,323173,11.4
+Aaron Cresswell,Defender,West Ham,14,CHE (A) 3 - 0,1,90,0,0,0,3,0,0,0,0,0,0,0,14,10.0,20.6,8.0,3.9,5430,891542,5.2
+Nick Pope,Goalkeeper,Burnley,14,WOL (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,2,0,13,16.8,10.0,0.0,2.7,34319,740085,5.4
+Sadio Mané,Midfielder,Liverpool,14,CRY (A) 0 - 7,9,56,1,1,0,0,0,0,0,0,0,0,0,31,52.2,11.3,41.0,10.5,-38831,576023,11.9
+Rúben Santos Gato Alves Dias,Defender,Man City,14,SOU (A) 0 - 1,9,90,0,0,1,0,0,0,0,0,0,0,3,28,21.0,0.8,0.0,2.2,-7120,311749,5.6
+Hugo Lloris,Goalkeeper,Spurs,14,LEI (H) 0 - 2,2,90,0,0,0,2,0,0,0,0,0,3,0,14,18.0,0.0,0.0,1.8,24011,536608,5.6
+Jack Harrison,Midfielder,Leeds,14,MUN (A) 6 - 2,2,90,0,0,0,6,0,0,0,0,0,0,0,9,14.8,36.7,26.0,7.8,29893,132168,5.4
+Riyad Mahrez,Midfielder,Man City,14,SOU (A) 0 - 1,1,18,0,0,0,0,0,0,0,0,0,0,0,-5,0.0,1.3,14.0,1.4,-143955,652938,8.4
+Aaron Wan-Bissaka,Defender,Man Utd,14,LEE (H) 6 - 2,1,90,0,0,0,2,0,0,0,0,0,0,0,11,34.8,0.4,0.0,3.5,-11740,650952,5.4
+Matheus Pereira,Midfielder,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-5368,56364,5.6
+Tomas Soucek,Midfielder,West Ham,14,CHE (A) 3 - 0,2,90,0,0,0,3,0,0,0,0,0,0,0,12,9.2,1.8,28.0,3.9,48395,624219,5.0
+Sam Johnstone,Goalkeeper,West Brom,14,AVL (H) 0 - 3,3,90,0,0,0,3,0,0,0,0,0,7,0,24,51.6,0.0,0.0,5.2,11607,142726,4.5
+Jarrod Bowen,Midfielder,West Ham,14,CHE (A) 3 - 0,2,89,0,0,0,3,0,0,0,0,0,0,0,9,8.0,10.9,8.0,2.7,-5116,393809,6.4
+Jack Grealish,Midfielder,Aston Villa,14,WBA (A) 0 - 3,10,90,0,2,1,0,0,0,0,0,0,0,1,40,43.2,92.2,37.0,17.2,28505,3353449,7.8
+Andrew Robertson,Defender,Liverpool,14,CRY (A) 0 - 7,10,90,0,1,1,0,0,0,0,0,0,0,1,50,41.4,54.4,0.0,9.6,41753,1425120,7.2
+João Pedro Cavaco Cancelo,Defender,Man City,14,SOU (A) 0 - 1,8,90,0,0,1,0,0,0,0,0,0,0,2,27,20.0,11.8,9.0,4.1,-3609,313374,5.5
+Kevin De Bruyne,Midfielder,Man City,14,SOU (A) 0 - 1,5,90,0,1,1,0,0,0,0,1,0,0,0,24,36.4,52.2,17.0,10.6,-119082,2022711,11.9
+Edouard Mendy,Goalkeeper,Chelsea,14,WHU (H) 3 - 0,6,90,0,0,1,0,0,0,0,0,0,0,0,20,3.6,0.0,0.0,0.4,-17479,693784,5.2
+James Maddison,Midfielder,Leicester,14,TOT (A) 0 - 2,3,90,0,0,1,0,0,0,0,0,0,0,0,9,15.8,63.8,21.0,10.1,19485,390621,7.1
+Trent Alexander-Arnold,Defender,Liverpool,14,CRY (A) 0 - 7,9,90,0,1,1,0,0,0,0,0,0,0,0,32,29.2,28.8,7.0,6.5,10375,1029122,7.2
+Alexandre Lacazette,Forward,Arsenal,14,EVE (A) 2 - 1,1,14,0,0,0,0,0,0,0,0,0,0,0,6,3.2,10.3,12.0,2.6,-8941,191024,8.2
+Lewis Dunk,Defender,Brighton,14,SHU (H) 1 - 1,1,90,0,0,0,1,0,0,0,1,0,0,0,8,12.6,15.2,8.0,3.6,14078,208698,4.8
+Chris Wood,Forward,Burnley,14,WOL (H) 2 - 1,9,90,1,0,0,1,0,0,0,0,0,0,3,32,47.8,14.1,58.0,12.0,-1011,69107,6.2
+Kasper Schmeichel,Goalkeeper,Leicester,14,TOT (A) 0 - 2,7,90,0,0,1,0,0,0,0,0,0,3,0,27,18.0,0.0,0.0,1.8,-38498,834702,5.5
+Harvey Barnes,Midfielder,Leicester,14,TOT (A) 0 - 2,3,83,0,0,1,0,0,0,0,0,0,0,0,7,12.8,23.7,34.0,7.1,-26143,216861,6.8
+Benjamin Chilwell,Defender,Chelsea,14,WHU (H) 3 - 0,1,9,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.1,0.0,0.0,38047,2762601,6.2
+Rui Pedro dos Santos Patrício,Goalkeeper,Wolves,14,BUR (A) 2 - 1,1,90,0,0,0,2,0,0,0,0,0,2,0,12,17.2,0.0,0.0,1.7,-8159,490704,5.5
+Pedro Lomba Neto,Midfielder,Wolves,14,BUR (A) 2 - 1,2,90,0,0,0,2,0,0,0,0,0,0,0,9,6.2,9.6,31.0,4.7,414077,911750,5.8
+Harry Maguire,Defender,Man Utd,14,LEE (H) 6 - 2,1,90,0,0,0,2,0,0,0,0,0,0,0,12,23.6,1.1,41.0,6.6,-4541,259731,5.4
+Matt Targett,Defender,Aston Villa,14,WBA (A) 0 - 3,6,90,0,0,1,0,0,0,0,0,0,0,0,26,19.6,25.1,6.0,5.1,41105,272198,4.6
+Wilfried Zaha,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,2,90,0,0,0,7,0,0,0,0,0,0,0,6,2.4,12.3,12.0,2.7,12825,1693584,7.5
+Youri Tielemans,Midfielder,Leicester,14,TOT (A) 0 - 2,3,90,0,0,1,0,0,0,0,0,0,0,0,12,6.2,4.3,4.0,1.5,-18417,182195,6.4
+John Stones,Defender,Man City,14,SOU (A) 0 - 1,8,90,0,0,1,0,0,0,0,0,0,0,2,27,25.4,0.8,2.0,2.8,-4389,110702,4.8
+Luke Shaw,Defender,Man Utd,14,LEE (H) 6 - 2,1,59,0,0,0,1,0,0,0,0,0,0,0,8,10.0,38.8,0.0,4.9,-1687,57939,4.8
+Callum Wilson,Forward,Newcastle,14,FUL (H) 1 - 1,9,90,1,0,0,1,0,0,0,0,0,0,3,28,45.0,1.3,37.0,8.3,79431,1353430,6.6
+Pierre-Emerick Aubameyang,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-16083,635555,11.4
+Lukasz Fabianski,Goalkeeper,West Ham,14,CHE (A) 3 - 0,2,90,0,0,0,3,0,0,0,0,0,4,0,16,31.2,0.0,0.0,3.1,-8440,364719,5.1
+Leandro Trossard,Midfielder,Brighton,14,SHU (H) 1 - 1,3,90,0,0,0,1,0,0,0,0,0,0,1,17,14.8,81.3,27.0,12.3,-1454,57980,5.8
+Phil Foden,Midfielder,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-34396,307747,6.3
+Tyrone Mings,Defender,Aston Villa,14,WBA (A) 0 - 3,5,90,0,0,1,0,0,0,0,1,0,0,0,25,15.8,11.7,2.0,3.0,76396,993721,5.3
+Timo Werner,Forward,Chelsea,14,WHU (H) 3 - 0,5,90,0,1,1,0,0,0,0,0,0,0,0,7,23.6,13.3,60.0,9.7,-160253,1364119,9.4
+Alphonse Areola,Goalkeeper,Fulham,14,NEW (A) 1 - 1,3,90,0,0,0,1,0,0,0,0,0,4,0,15,29.8,0.0,0.0,3.0,5855,110969,4.5
+Raphael Dias Belloli,Midfielder,Leeds,14,MUN (A) 6 - 2,8,90,0,2,0,6,0,0,0,0,0,0,0,21,43.0,57.8,51.0,15.2,-3409,52354,5.4
+Danny Ings,Forward,Southampton,14,MCI (H) 0 - 1,1,40,0,0,0,1,0,0,0,0,0,0,0,5,9.6,0.8,22.0,3.2,-9853,620139,8.4
+Che Adams,Forward,Southampton,14,MCI (H) 0 - 1,2,81,0,0,0,1,0,0,0,0,0,0,0,-1,2.0,11.8,33.0,4.7,11959,562657,6.0
+Vicente Guaita,Goalkeeper,Crystal Palace,14,LIV (H) 0 - 7,-1,90,0,0,0,7,0,0,0,0,0,0,0,9,4.2,0.0,0.0,0.4,-12002,242245,4.9
+Vladimir Coufal,Defender,West Ham,14,CHE (A) 3 - 0,1,90,0,0,0,3,0,0,0,0,0,0,0,23,25.6,30.5,2.0,5.8,36100,231140,4.6
+Gylfi Sigurdsson,Midfielder,Everton,14,ARS (H) 2 - 1,7,90,0,1,0,1,0,0,0,0,0,0,2,27,26.6,31.8,13.0,7.1,8639,77865,6.8
+Bernd Leno,Goalkeeper,Arsenal,14,EVE (A) 2 - 1,1,90,0,0,0,2,0,0,0,0,0,1,0,10,8.4,0.0,0.0,0.8,-35279,577628,5.0
+Jonny Evans,Defender,Leicester,14,TOT (A) 0 - 2,6,90,0,0,1,0,0,0,0,0,0,0,0,24,9.0,0.5,0.0,1.0,-1350,25212,5.5
+Roberto Firmino,Forward,Liverpool,14,CRY (A) 0 - 7,16,74,2,1,1,0,0,0,0,0,0,0,3,65,87.0,11.8,34.0,13.3,19790,189554,9.2
+Richarlison de Andrade,Forward,Everton,14,ARS (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,4,3.6,3.3,6.0,1.3,20903,346508,7.8
+Ezri Konsa Ngoyo,Defender,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-73025,687878,4.8
+Bertrand Traoré,Midfielder,Aston Villa,14,WBA (A) 0 - 3,13,90,1,1,1,0,0,0,0,0,0,0,2,48,67.6,45.3,52.0,16.5,344,4704,5.9
+Neal Maupay,Forward,Brighton,14,SHU (H) 1 - 1,2,65,0,0,0,1,0,0,0,0,0,0,0,1,1.8,12.1,58.0,7.2,-4362,165738,6.1
+Michael Keane,Defender,Everton,14,ARS (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,12,18.8,0.9,3.0,2.3,18161,401468,5.1
+César Azpilicueta,Defender,Chelsea,14,WHU (H) 3 - 0,7,90,0,0,1,0,0,0,0,0,0,0,1,32,28.6,3.5,2.0,3.4,-6470,201171,5.7
+Reece James,Defender,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,19976,1424039,5.3
+Dwight McNeil,Midfielder,Burnley,14,WOL (H) 2 - 1,3,86,0,0,1,0,0,0,0,0,0,0,0,9,10.6,15.2,0.0,2.6,-417,28937,5.7
+Kurt Zouma,Defender,Chelsea,14,WHU (H) 3 - 0,6,90,0,0,1,0,0,0,0,0,0,0,0,29,17.0,0.6,0.0,1.8,48749,1902184,5.8
+Alisson Ramses Becker,Goalkeeper,Liverpool,14,CRY (A) 0 - 7,7,90,0,0,1,0,0,0,0,0,0,3,0,26,25.0,0.0,0.0,2.5,7613,487264,5.9
+Bukayo Saka,Midfielder,Arsenal,14,EVE (A) 2 - 1,2,90,0,0,0,2,0,0,0,0,0,0,0,9,3.8,13.2,51.0,6.8,-5246,169035,5.2
+John McGinn,Midfielder,Aston Villa,14,WBA (A) 0 - 3,3,90,0,0,1,0,0,0,0,0,0,0,0,11,8.0,4.1,16.0,2.8,-3619,135720,5.5
+Michail Antonio,Forward,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3648,129348,6.2
+Gabriel Fernando de Jesus,Forward,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-34660,129197,9.2
+Stuart Armstrong,Midfielder,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-2901,57195,5.5
+Pascal Groß,Midfielder,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3161,95310,5.8
+Jorge Luiz Frello Filho,Midfielder,Chelsea,14,WHU (H) 3 - 0,3,65,0,0,1,0,0,0,0,0,0,0,0,9,8.6,2.0,1.0,1.2,-41237,379968,4.8
+Ola Aina,Defender,Fulham,14,NEW (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,16,20.4,19.3,0.0,4.0,2695,27429,4.5
+Ademola Lookman,Midfielder,Fulham,14,NEW (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,4,11.8,10.2,46.0,6.8,12932,115456,5.0
+James Justin,Defender,Leicester,14,TOT (A) 0 - 2,8,90,0,0,1,0,0,0,0,0,0,0,2,33,22.8,22.8,4.0,5.0,-43400,1741436,4.9
+Conor Coady,Defender,Wolves,14,BUR (A) 2 - 1,1,90,0,0,0,2,0,0,0,0,0,0,0,13,19.6,0.5,0.0,2.0,-266,499272,4.9
+James Rodríguez,Midfielder,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-184755,908561,7.7
+Pablo Fornals,Midfielder,West Ham,14,CHE (A) 3 - 0,2,66,0,0,0,1,0,0,0,0,0,0,0,4,3.6,2.3,18.0,2.4,-20354,102822,6.3
+Ben White,Defender,Brighton,14,SHU (H) 1 - 1,2,71,0,0,0,1,0,0,0,0,0,0,0,11,3.2,3.8,0.0,0.7,10462,105178,4.4
+Eberechi Eze,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,2,68,0,0,0,5,0,0,0,0,0,0,0,6,7.8,16.8,2.0,2.7,-561,81768,5.8
+Nélson Cabral Semedo,Defender,Wolves,14,BUR (A) 2 - 1,1,90,0,0,0,2,0,0,0,0,0,0,0,6,10.8,3.3,10.0,2.4,-3508,214240,5.5
+Victor Lindelöf,Defender,Man Utd,14,LEE (H) 6 - 2,7,90,1,0,0,2,0,0,0,0,0,0,0,21,48.2,0.1,33.0,8.1,6930,115029,4.8
+Aaron Ramsdale,Goalkeeper,Sheffield Utd,14,BHA (A) 1 - 1,2,90,0,0,0,1,0,0,0,1,0,3,0,12,20.2,0.0,0.0,2.0,-6437,173530,4.7
+Rúben Diogo da Silva Neves,Midfielder,Wolves,14,BUR (A) 2 - 1,2,75,0,0,0,2,0,0,0,0,0,0,0,12,14.4,32.5,34.0,8.1,-1242,93940,5.2
+James Tarkowski,Defender,Burnley,14,WOL (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,12,24.4,0.3,6.0,3.1,1148,172544,5.3
+Ashley Westwood,Midfielder,Burnley,14,WOL (H) 2 - 1,1,90,0,0,0,1,0,0,0,1,0,0,0,8,8.6,11.7,0.0,2.0,1731,38347,5.3
+Romain Saïss,Defender,Wolves,14,BUR (A) 2 - 1,1,90,0,0,0,2,0,0,0,0,0,0,0,7,3.2,1.5,16.0,2.1,-2565,578637,5.1
+Robert Sánchez,Goalkeeper,Brighton,14,SHU (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,2,0,16,12.6,0.0,0.0,1.3,13606,16321,4.4
+Joël Veltman,Defender,Brighton,14,SHU (H) 1 - 1,1,45,0,0,0,0,0,0,0,0,0,0,0,5,3.2,5.2,0.0,0.8,-281,38390,4.3
+Lucas Digne,Defender,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-26469,425854,6.0
+Tanguy Ndombele,Midfielder,Spurs,14,LEI (H) 0 - 2,1,45,0,0,0,1,0,0,0,0,0,0,0,4,3.0,1.7,4.0,0.9,-957,30704,5.9
+Ben Mee,Defender,Burnley,14,WOL (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,10,13.2,0.5,4.0,1.8,3902,21798,4.9
+Tosin Adarabioyo,Defender,Fulham,14,NEW (A) 1 - 1,7,90,0,1,0,1,0,0,0,0,0,0,2,27,26.0,11.1,10.0,4.7,2294,4943,4.5
+Matthew Lowton,Defender,Burnley,14,WOL (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,8,8.2,1.1,1.0,1.0,7859,20245,4.4
+Héctor Bellerín,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-59084,440896,5.1
+Kelechi Iheanacho,Forward,Leicester,14,TOT (A) 0 - 2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.8,2.0,0.3,-287,21143,5.6
+Jan Bednarek,Defender,Southampton,14,MCI (H) 0 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,14,8.0,1.0,0.0,0.9,48885,398669,4.6
+Jesse Lingard,Midfielder,West Ham,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-37,10539,5.9
+Jordan Pickford,Goalkeeper,Everton,14,ARS (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,1,0,9,11.6,0.0,0.0,1.2,-10565,467766,4.8
+Joachim Andersen,Defender,Fulham,14,NEW (A) 1 - 1,-1,61,0,0,0,1,0,0,0,0,1,0,0,2,3.0,10.7,2.0,1.6,681,2477,4.5
+Timothy Castagne,Defender,Leicester,14,TOT (A) 0 - 2,1,59,0,0,0,0,0,0,0,0,0,0,0,8,9.4,2.0,0.0,1.1,-24304,389649,5.7
+Bernardo Mota Veiga de Carvalho e Silva,Midfielder,Man City,14,SOU (A) 0 - 1,3,90,0,0,1,0,0,0,0,0,0,0,0,16,15.8,35.2,21.0,7.2,-1494,38743,7.4
+Gareth Bale,Midfielder,Spurs,14,LEI (H) 0 - 2,1,45,0,0,0,1,0,0,0,0,0,0,0,4,3.8,16.1,3.0,2.3,-3532,27138,9.3
+Mateusz Klich,Midfielder,Leeds,14,MUN (A) 6 - 2,1,45,0,0,0,4,0,0,0,0,0,0,0,5,6.2,27.1,2.0,3.5,16104,518880,5.5
+Anwar El Ghazi,Midfielder,Aston Villa,14,WBA (A) 0 - 3,16,90,2,0,1,0,0,0,0,0,0,0,3,51,82.8,9.7,120.0,21.3,1827,10690,5.7
+Kai Havertz,Midfielder,Chelsea,14,WHU (H) 3 - 0,1,6,0,0,0,0,0,0,0,0,0,0,0,5,2.2,1.0,0.0,0.3,-8281,243167,8.3
+Alex McCarthy,Goalkeeper,Southampton,14,MCI (H) 0 - 1,3,90,0,0,0,1,0,0,0,0,0,4,0,17,24.4,0.0,0.0,2.4,-2328,1703234,4.6
+Pierre-Emile Højbjerg,Midfielder,Spurs,14,LEI (H) 0 - 2,2,90,0,0,0,2,0,0,0,0,0,0,0,12,14.4,13.8,4.0,3.2,-30,75869,4.9
+Rob Holding,Defender,Arsenal,14,EVE (A) 2 - 1,-1,90,0,0,0,2,1,0,0,0,0,0,0,5,7.0,1.3,0.0,0.8,-497,97938,4.4
+Matthew Cash,Defender,Aston Villa,14,WBA (A) 0 - 3,6,90,0,0,1,0,0,0,0,0,0,0,0,24,13.4,19.1,8.0,4.1,657,45367,5.0
+Thiago Thiago,Defender,Chelsea,14,WHU (H) 3 - 0,14,90,1,0,1,0,0,0,0,0,0,0,2,46,56.8,0.9,21.0,7.9,-5296,272200,5.5
+Ezgjan Alioski,Defender,Leeds,14,MUN (A) 6 - 2,-1,90,0,0,0,6,0,0,0,0,0,0,0,11,6.2,4.3,30.0,4.1,32787,106920,4.4
+David de Gea,Goalkeeper,Man Utd,14,LEE (H) 6 - 2,1,90,0,0,0,2,0,0,0,0,0,1,0,10,18.8,0.0,0.0,1.9,-8051,256997,5.3
+Miguel Almirón,Midfielder,Newcastle,14,FUL (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,12,12.2,12.4,19.0,4.4,1550,34903,5.6
+Georginio Wijnaldum,Midfielder,Liverpool,14,CRY (A) 0 - 7,3,68,0,0,1,0,0,0,0,0,0,0,0,13,5.4,3.8,0.0,0.9,9600,128969,5.3
+Scott McTominay,Midfielder,Man Utd,14,LEE (H) 6 - 2,18,90,2,1,0,2,0,0,0,0,0,0,3,65,99.0,32.1,27.0,15.8,-415,20719,4.9
+Mason Greenwood,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-27,184641,7.1
+David McGoldrick,Forward,Sheffield Utd,14,BHA (A) 1 - 1,4,69,0,1,1,0,0,0,0,1,0,0,0,13,22.0,12.8,11.0,4.6,16226,62808,5.2
+Angelo Ogbonna,Defender,West Ham,14,CHE (A) 3 - 0,1,90,0,0,0,3,0,0,0,0,0,0,0,13,8.2,0.5,8.0,1.7,35732,165415,5.0
+Kyle Walker,Defender,Man City,14,SOU (A) 0 - 1,8,90,0,0,1,0,0,0,0,0,0,0,2,27,20.0,2.7,0.0,2.3,-43086,857408,6.2
+Kyle Walker-Peters,Defender,Southampton,14,MCI (H) 0 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,15,17.8,18.5,8.0,4.4,-4055,1009330,4.7
+Luke Ayling,Defender,Leeds,14,MUN (A) 6 - 2,-1,90,0,0,0,6,0,0,0,0,0,0,0,18,23.6,0.9,26.0,5.1,-11454,287262,4.5
+Rodrigo Hernandez,Midfielder,Man City,14,SOU (A) 0 - 1,3,90,0,0,1,0,0,0,0,0,0,0,0,16,17.4,4.3,0.0,2.2,-1007,36175,5.4
+Paul Pogba,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10392,107630,7.7
+Antonio Rüdiger,Defender,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-884,52087,4.5
+Adama Traoré,Midfielder,Wolves,14,BUR (A) 2 - 1,1,30,0,0,0,0,0,0,0,0,0,0,0,9,15.4,44.9,0.0,6.0,-10732,452687,6.1
+Andros Townsend,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-6577,122641,5.7
+Karl Darlow,Goalkeeper,Newcastle,14,FUL (H) 1 - 1,3,90,0,0,0,1,0,0,0,0,0,4,0,16,31.6,0.0,0.0,3.2,1958,141758,5.0
+Jannik Vestergaard,Defender,Southampton,14,MCI (H) 0 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,15,30.0,1.6,21.0,5.3,105472,1233843,5.0
+Sergio Reguilón,Defender,Spurs,14,LEI (H) 0 - 2,1,90,0,0,0,2,0,0,0,0,0,0,0,8,11.2,6.9,8.0,2.6,7785,477292,5.7
+Edinson Cavani,Forward,Man Utd,14,LEE (H) 6 - 2,1,19,0,0,0,1,0,0,0,0,0,0,0,0,8.4,0.4,24.0,3.3,-28653,81511,7.9
+Toby Alderweireld,Defender,Spurs,14,LEI (H) 0 - 2,-1,90,0,0,0,2,1,0,0,0,0,0,0,18,27.8,11.7,4.0,4.4,3730,124285,5.4
+Serge Aurier,Defender,Spurs,14,LEI (H) 0 - 2,1,63,0,0,0,2,0,0,0,0,0,0,0,6,2.4,9.3,2.0,1.4,15583,169349,5.2
+Lucas Rodrigues Moura da Silva,Midfielder,Spurs,14,LEI (H) 0 - 2,1,41,0,0,0,1,0,0,0,0,0,0,0,5,10.2,7.5,4.0,2.2,-902,90846,6.7
+Kieran Tierney,Defender,Arsenal,14,EVE (A) 2 - 1,0,90,0,0,0,2,0,0,0,1,0,0,0,14,19.6,55.8,6.0,8.1,-13648,327723,5.3
+Christian Benteke,Forward,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-4977,24783,5.5
+Ryan Bertrand,Defender,Southampton,14,MCI (H) 0 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,6,9.2,1.9,2.0,1.3,-1047,77191,5.0
+Danny Welbeck,Forward,Brighton,14,SHU (H) 1 - 1,8,24,1,0,0,0,0,0,0,0,0,0,3,24,34.0,0.0,53.0,8.7,13679,106188,5.5
+Ivan Ricardo Neves Abreu Cavaleiro,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2278,15553,5.3
+Declan Rice,Midfielder,West Ham,14,CHE (A) 3 - 0,2,90,0,0,0,3,0,0,0,0,0,0,0,13,6.8,2.7,2.0,1.2,-2477,198035,4.8
+Adam Webster,Defender,Brighton,14,SHU (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,11,15.6,3.7,30.0,4.9,10711,136912,4.4
+Diogo Jota,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-394272,461182,6.8
+Anthony Martial,Forward,Man Utd,14,LEE (H) 6 - 2,12,90,0,3,0,2,0,0,0,0,0,0,1,46,46.0,51.3,45.0,14.2,15661,275075,8.7
+Allan Saint-Maximin,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-20643,256195,5.1
+Kyle Bartley,Defender,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1464,9898,4.4
+Darnell Furlong,Defender,West Brom,14,AVL (H) 0 - 3,1,90,0,0,0,3,0,0,0,0,0,0,0,8,10.4,0.9,0.0,1.1,4005,22930,4.5
+Callum Robinson,Forward,West Brom,14,AVL (H) 0 - 3,1,7,0,0,0,2,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,-3041,36666,5.5
+Nicolas Pépé,Midfielder,Arsenal,14,EVE (A) 2 - 1,8,70,1,0,0,2,0,0,0,0,0,0,1,26,31.0,4.3,28.0,6.3,371,49800,7.6
+Ben Godfrey,Defender,Everton,14,ARS (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,17,20.6,5.5,2.0,2.8,3224,10672,5.0
+Bobby Decordova-Reid,Forward,Fulham,14,NEW (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,2,1.0,2.5,6.0,1.0,-4409,47781,5.3
+Cheikhou Kouyaté,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,2,62,0,0,0,4,0,0,0,0,0,0,0,9,3.2,0.3,0.0,0.4,-1995,37232,5.0
+Leander Dendoncker,Midfielder,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-7788,63583,4.8
+Daniel Castelo Podence,Midfielder,Wolves,14,BUR (A) 2 - 1,2,90,0,0,0,2,0,0,0,0,0,0,0,14,17.2,23.5,32.0,7.3,127759,398272,5.5
+Charlie Taylor,Defender,Burnley,14,WOL (H) 2 - 1,5,90,0,1,0,1,0,0,0,0,0,0,0,17,28.0,15.4,2.0,4.5,92451,348093,4.4
+Mason Holgate,Defender,Everton,14,ARS (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,14,11.2,16.3,4.0,3.2,22864,30465,4.8
+Ross Barkley,Midfielder,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-7983,90015,5.9
+Yves Bissouma,Midfielder,Brighton,14,SHU (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,9,12.6,17.2,8.0,3.8,-4293,240163,4.5
+Christian Pulisic,Midfielder,Chelsea,14,WHU (H) 3 - 0,6,83,0,1,1,0,0,0,0,0,0,0,0,12,9.4,26.6,41.0,7.7,6903,190955,8.2
+Abdoulaye Doucouré,Midfielder,Everton,14,ARS (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,12,9.6,3.0,0.0,1.3,-1091,79540,5.3
+Ferran Torres,Midfielder,Man City,14,SOU (A) 0 - 1,3,71,0,0,1,0,0,0,0,0,0,0,0,2,0.0,2.0,4.0,0.4,-29268,122398,6.9
+André-Frank Zambo Anguissa,Midfielder,Fulham,14,NEW (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,17,8.0,18.8,5.0,3.2,4898,165250,4.5
+Solomon March,Midfielder,Brighton,14,SHU (H) 1 - 1,4,90,0,0,0,1,0,0,0,0,0,0,2,21,23.4,64.3,26.0,11.4,5234,110975,5.0
+Tammy Abraham,Forward,Chelsea,14,WHU (H) 3 - 0,13,90,2,0,1,0,0,0,0,0,0,0,3,57,71.2,2.2,38.0,11.1,-17533,178920,7.2
+Eric Dier,Defender,Spurs,14,LEI (H) 0 - 2,0,90,0,0,0,2,0,0,0,1,0,0,0,13,22.0,5.3,4.0,3.1,47811,360165,5.0
+Willian Borges Da Silva,Midfielder,Arsenal,14,EVE (A) 2 - 1,2,90,0,0,0,2,0,0,0,0,0,0,0,12,4.6,18.3,3.0,2.6,-15174,265343,7.6
+Wesley Fofana,Defender,Leicester,14,TOT (A) 0 - 2,10,90,0,1,1,0,0,0,0,0,0,0,1,32,11.8,10.3,12.0,3.4,-4491,43769,5.0
+Wilfred Ndidi,Midfielder,Leicester,14,TOT (A) 0 - 2,2,90,0,0,1,0,0,0,0,1,0,0,0,18,20.6,14.8,0.0,3.5,333,44418,4.8
+Conor Townsend,Defender,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-671,7392,4.5
+Granit Xhaka,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1675,30646,5.2
+Jordan Ayew,Forward,Crystal Palace,14,LIV (H) 0 - 7,2,90,0,0,0,7,0,0,0,0,0,0,0,4,7.2,4.8,21.0,3.3,-5498,120488,5.7
+Harrison Reed,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1724,47967,4.4
+Joelinton Cássio Apolinário de Lira,Forward,Newcastle,14,FUL (H) 1 - 1,2,74,0,0,0,1,0,0,0,0,0,0,0,6,4.0,1.0,25.0,3.0,6037,49612,5.7
+Theo Walcott,Midfielder,Southampton,14,MCI (H) 0 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,8,19.0,30.3,23.0,7.2,8594,68870,5.8
+Willy Boly,Defender,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-18492,157264,5.5
+Yerry Mina,Defender,Everton,14,ARS (H) 2 - 1,11,90,1,0,0,1,0,0,0,0,0,0,3,29,57.2,1.6,33.0,9.2,4527,141968,5.5
+Conor Gallagher,Midfielder,West Brom,14,AVL (H) 0 - 3,2,90,0,0,0,3,0,0,0,0,0,0,0,9,11.8,2.0,0.0,1.4,100,10434,5.5
+João Filipe Iria Santos Moutinho,Midfielder,Wolves,14,BUR (A) 2 - 1,2,90,0,0,0,2,0,0,0,0,0,0,0,16,14.4,23.3,0.0,3.8,-2258,76234,5.2
+Douglas Luiz Soares de Paulo,Midfielder,Aston Villa,14,WBA (A) 0 - 3,3,90,0,0,1,0,0,0,0,0,0,0,0,18,12.0,27.5,1.0,4.1,-855,17711,4.9
+Ainsley Maitland-Niles,Defender,West Brom,14,EVE (A) 2 - 1,5,90,0,1,0,2,0,0,0,0,0,0,1,26,20.6,22.5,8.0,5.1,-1238,64025,4.6
+Craig Dawson,Defender,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-31,1552,4.5
+Josh Brownhill,Midfielder,Burnley,14,WOL (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,8,20.8,1.7,4.0,2.7,95,3464,4.9
+Alex Iwobi,Midfielder,Everton,14,ARS (H) 2 - 1,2,82,0,0,0,1,0,0,0,0,0,0,0,11,5.4,15.8,18.0,3.9,4574,19905,5.9
+Ruben Loftus-Cheek,Midfielder,Fulham,14,NEW (A) 1 - 1,1,13,0,0,0,0,0,0,0,0,0,0,0,5,2.2,0.4,0.0,0.3,657,16818,5.9
+Hélder Wander Sousa de Azevedo e Costa,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-32535,289863,5.3
+Frederico Rodrigues de Paula Santos,Midfielder,Man Utd,14,LEE (H) 6 - 2,2,90,0,0,0,2,0,0,0,0,0,0,0,12,32.8,13.0,19.0,6.5,-458,14684,5.3
+Pascal Struijk,Defender,Leeds,14,MUN (A) 6 - 2,0,45,0,0,0,2,0,0,0,0,0,0,0,-1,0.0,1.9,4.0,0.2,3632,156002,3.9
+Jonjo Shelvey,Midfielder,Newcastle,14,FUL (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,14,15.8,12.9,9.0,3.8,-111,11039,5.3
+Gabriel Magalhães,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-193220,661743,5.0
+Daniel Ceballos Fernández,Midfielder,Arsenal,14,EVE (A) 2 - 1,2,90,0,0,0,2,0,0,0,0,0,0,0,14,17.4,14.6,6.0,3.8,-3482,76341,4.8
+Seamus Coleman,Defender,Everton,14,ARS (H) 2 - 1,1,7,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,-113,44854,4.8
+Aleksandar Mitrović,Forward,Fulham,14,NEW (A) 1 - 1,2,76,0,0,0,1,0,0,0,0,0,0,0,4,3.6,3.9,17.0,2.5,-11205,328483,5.5
+Oleksandr Zinchenko,Defender,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-538,15669,5.5
+John Fleck,Midfielder,Sheffield Utd,14,BHA (A) 1 - 1,1,32,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.3,0.0,0.0,266,9297,5.6
+Matt Phillips,Midfielder,West Brom,14,AVL (H) 0 - 3,2,76,0,0,0,1,0,0,0,0,0,0,0,3,2.8,1.3,9.0,1.3,-8,3979,5.1
+Andreas Christensen,Defender,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-265,16447,4.7
+Luka Milivojevic,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,2,90,0,0,0,7,0,0,0,0,0,0,0,20,14.6,19.6,13.0,4.7,-136,17233,5.6
+Benjamin Mendy,Defender,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-9564,154988,5.9
+N'Golo Kanté,Midfielder,Chelsea,14,WHU (H) 3 - 0,3,90,0,0,1,0,0,0,0,0,0,0,0,19,13.2,13.3,0.0,2.7,-6102,251247,4.9
+Hakim Ziyech,Midfielder,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-57826,246454,8.1
+Jairo Riedewald,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,1,15,0,0,0,2,0,0,0,0,0,0,0,3,0.2,0.1,0.0,0.0,-6496,136709,4.4
+Marc Albrighton,Midfielder,Leicester,14,TOT (A) 0 - 2,2,90,0,0,1,0,0,0,0,1,0,0,0,9,14.2,26.1,26.0,6.6,-257,8850,5.3
+Joel Ward,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1882,58751,4.3
+Kalvin Phillips,Midfielder,Leeds,14,MUN (A) 6 - 2,1,45,0,0,0,4,0,0,0,0,0,0,0,2,11.2,0.8,0.0,1.2,-964,106577,4.9
+Fabio Henrique Tavares,Midfielder,Liverpool,14,CRY (A) 0 - 7,3,90,0,0,1,0,0,0,0,0,0,0,0,20,28.2,0.8,0.0,2.9,1559,77333,5.4
+Fabio Silva,Forward,Wolves,14,BUR (A) 2 - 1,6,30,1,0,0,0,0,0,0,0,0,0,1,26,31.2,0.1,25.0,5.6,3318,52273,5.2
+Callum Hudson-Odoi,Midfielder,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-591,16235,5.7
+Jeffrey Schlupp,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,2,90,0,0,0,7,0,0,0,0,0,0,0,8,14.8,11.4,23.0,4.9,-240,7242,5.4
+Rodrigo Moreno,Forward,Leeds,14,MUN (A) 6 - 2,2,90,0,0,0,6,0,0,0,0,0,0,0,18,17.6,57.8,20.0,9.5,10990,169953,5.7
+Aymeric Laporte,Defender,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-9821,196230,6.0
+Saïd Benrahma,Midfielder,West Ham,14,CHE (A) 3 - 0,1,23,0,0,0,2,0,0,0,0,0,0,0,2,4.2,0.3,4.0,0.9,-1020,25816,6.0
+Mahmoud Ahmed Ibrahim Hassan,Midfielder,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-9570,49226,5.3
+Antonee Robinson,Defender,Fulham,14,NEW (A) 1 - 1,1,90,0,0,0,1,0,0,0,1,0,0,0,9,10.6,14.3,0.0,2.5,1202,12893,4.4
+Jordan Henderson,Midfielder,Liverpool,14,CRY (A) 0 - 7,8,90,1,0,1,0,0,0,0,0,0,0,0,36,53.6,7.7,7.0,6.8,2561,89834,5.4
+Jacob Murphy,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-30,4549,4.9
+Nathan Redmond,Midfielder,Southampton,14,MCI (H) 0 - 1,1,31,0,0,0,0,0,0,0,0,0,0,0,7,8.6,3.4,9.0,2.1,262,15891,6.4
+Adam Lallana,Midfielder,Brighton,14,SHU (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,14,12.4,28.4,14.0,5.5,1063,24628,6.2
+Max Kilman,Defender,Wolves,14,BUR (A) 2 - 1,1,90,0,0,0,2,0,0,0,0,0,0,0,8,5.8,0.5,0.0,0.6,-103512,852633,4.2
+Matej Vydra,Forward,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-532,47053,4.8
+Patrick van Aanholt,Defender,Crystal Palace,14,LIV (H) 0 - 7,-1,90,0,0,0,7,0,0,0,0,0,0,0,11,7.0,2.1,4.0,1.3,-7580,54118,5.4
+Mario Lemina,Midfielder,Fulham,14,NEW (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,20,18.4,11.7,8.0,3.8,-535,24870,4.5
+Dan Burn,Defender,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-765,27157,4.3
+Mateo Kovacic,Midfielder,Chelsea,14,WHU (H) 3 - 0,1,24,0,0,0,0,0,0,0,0,0,0,0,2,1.2,1.6,0.0,0.3,-502,20139,5.3
+Liam Cooper,Defender,Leeds,14,MUN (A) 6 - 2,5,71,1,0,0,6,0,0,0,0,0,0,0,27,64.2,0.3,17.0,8.2,-990,42277,4.4
+George Baldock,Defender,Sheffield Utd,14,BHA (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,5,7.0,1.0,0.0,0.8,-4601,99444,5.1
+Jay Rodriguez,Forward,Burnley,14,WOL (H) 2 - 1,0,8,0,0,0,1,0,0,0,1,0,0,0,-2,0.0,0.8,0.0,0.0,-169,20280,5.8
+Fernando Luiz Rosa,Defender,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-586,51757,5.4
+Oriol Romeu Vidal,Midfielder,Southampton,14,MCI (H) 0 - 1,1,90,0,0,0,1,0,0,0,1,0,0,0,8,11.0,11.7,8.0,3.1,4369,376782,4.5
+Emile Smith Rowe,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-233,17087,4.4
+Erik Pieters,Defender,Burnley,14,WOL (H) 2 - 1,1,21,0,0,0,1,0,0,0,0,0,0,0,2,0.0,0.5,0.0,0.0,-636,21948,4.3
+Ayoze Pérez,Midfielder,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-2606,62150,6.0
+Jeff Hendrick,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10503,180970,4.7
+Rayan Ait Nouri,Defender,Wolves,14,BUR (A) 2 - 1,0,59,0,0,0,2,0,0,0,0,0,0,0,12,12.2,15.0,18.0,4.5,-2717,15139,5.0
+Ashley Barnes,Forward,Burnley,14,WOL (H) 2 - 1,8,81,1,0,1,0,0,0,0,0,0,0,2,30,35.8,1.0,71.0,10.8,-193,9757,6.0
+Marcos Alonso,Defender,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1807,114107,5.7
+Kenny Tete,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-91,4484,4.3
+Çaglar Söyüncü,Defender,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-4435,217876,5.3
+Joseph Willock,Midfielder,Newcastle,14,EVE (A) 2 - 1,0,26,0,0,0,0,0,0,0,1,0,0,0,-3,4.2,12.3,10.0,2.7,-116,5677,4.8
+John Lundstram,Midfielder,Sheffield Utd,14,BHA (A) 1 - 1,-2,39,0,0,0,1,0,0,0,0,1,0,0,-6,0.0,15.5,13.0,2.8,-8400,162383,5.0
+Oluwasemilogo Adesewo Ibidapo Ajayi,Defender,West Brom,14,AVL (H) 0 - 3,1,90,0,0,0,3,0,0,0,0,0,0,0,6,15.6,0.6,0.0,1.6,579,14367,4.8
+Ciaran Clark,Defender,Newcastle,14,FUL (H) 1 - 1,1,90,0,0,0,1,0,0,0,1,0,0,0,11,13.8,0.8,0.0,1.5,6390,12040,4.5
+Oliver Norwood,Midfielder,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-379,12349,4.6
+Johann Berg Gudmundsson,Midfielder,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-60,2728,5.4
+Olivier Giroud,Forward,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,28267,133016,6.7
+James McArthur,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,2,74,0,0,0,5,0,0,0,0,0,0,0,13,9.6,1.8,0.0,1.1,-178,8834,5.3
+André Filipe Tavares Gomes,Midfielder,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-226,18643,5.4
+Matt Doherty,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-22927,410332,5.7
+Steven Bergwijn,Midfielder,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1521,31014,7.0
+Mohamed Naser El Sayed Elneny,Midfielder,Arsenal,14,EVE (A) 2 - 1,1,63,0,0,0,2,0,0,0,1,0,0,0,12,7.6,2.2,0.0,1.0,-1450,102019,4.4
+Robbie Brady,Midfielder,Burnley,14,WOL (H) 2 - 1,3,68,0,0,1,0,0,0,0,0,0,0,0,11,6.8,16.7,8.0,3.2,138,5012,5.0
+Curtis Jones,Midfielder,Liverpool,14,CRY (A) 0 - 7,1,21,0,0,0,0,0,0,0,0,0,0,0,0,2.4,2.3,0.0,0.5,31025,109308,4.4
+Jamaal Lascelles,Defender,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-8840,85074,4.3
+Ethan Ampadu,Defender,Sheffield Utd,14,BHA (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,11,16.4,1.3,0.0,1.8,279,31369,4.3
+Oliver Burke,Midfielder,Sheffield Utd,14,BHA (A) 1 - 1,0,57,0,0,0,1,0,0,0,1,0,0,0,1,5.4,10.7,12.0,2.8,23044,163649,4.3
+Oliver McBurnie,Forward,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1519,18008,5.6
+Alexis Mac Allister,Midfielder,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-22,2915,5.3
+James Milner,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-763,9426,5.3
+Jamal Lewis,Defender,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,20980,230903,4.3
+Moussa Djenepo,Midfielder,Southampton,14,MCI (H) 0 - 1,1,58,0,0,0,1,0,0,0,0,0,0,0,0,1.8,0.8,4.0,0.7,-511,6219,5.4
+Moussa Sissoko,Midfielder,Spurs,14,LEI (H) 0 - 2,2,90,0,0,0,2,0,0,0,0,0,0,0,10,5.6,4.4,2.0,1.2,351,36954,4.8
+Raúl Jiménez,Forward,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-20070,445255,8.2
+Joel Matip,Defender,Liverpool,14,CRY (A) 0 - 7,9,90,0,1,1,0,0,0,0,0,0,0,0,35,21.6,10.4,25.0,5.7,-12640,64564,5.4
+John Egan,Defender,Sheffield Utd,14,BHA (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,15,32.2,0.5,2.0,3.5,-6371,186552,4.7
+Ben Osborn,Midfielder,Sheffield Utd,14,BHA (A) 1 - 1,0,20,0,0,0,1,0,0,0,1,0,0,0,3,2.2,10.3,0.0,1.3,-29,2073,4.8
+Takumi Minamino,Midfielder,Southampton,14,CRY (A) 0 - 7,8,90,1,0,1,0,0,0,0,0,0,0,0,25,35.4,3.8,41.0,8.0,70,10503,6.0
+Davinson Sánchez,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1089,55043,5.3
+Arthur Masuaku,Defender,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-34479,90869,4.5
+David Luiz Moreira Marinho,Defender,Arsenal,14,EVE (A) 2 - 1,1,90,0,0,0,2,0,0,0,0,0,0,0,14,22.2,2.7,18.0,4.3,-84,59159,5.4
+Tom Davies,Midfielder,Everton,14,ARS (H) 2 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,3,0.2,11.6,0.0,1.2,-40,6827,5.2
+Diego Llorente,Defender,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-65,1369,4.4
+Dara O'Shea,Defender,West Brom,14,AVL (H) 0 - 3,1,90,0,0,0,3,0,0,0,0,0,0,0,13,19.8,0.1,0.0,2.0,239,13032,4.3
+Sébastien Haller,Forward,West Ham,14,CHE (A) 3 - 0,2,90,0,0,0,3,0,0,0,0,0,0,0,-4,1.2,1.2,12.0,1.4,2193,31181,6.1
+Michy Batshuayi,Forward,Crystal Palace,14,LIV (H) 0 - 7,1,21,0,0,0,2,0,0,0,0,0,0,0,1,0.0,0.2,0.0,0.0,-1637,48539,5.7
+Tyler Roberts,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-53,4592,4.8
+Isaac Hayden,Midfielder,Newcastle,14,FUL (H) 1 - 1,1,45,0,0,0,0,0,0,0,0,0,0,0,13,14.2,0.5,4.0,1.9,-34,4116,4.8
+Thomas Partey,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3279,28639,5.0
+Gary Cahill,Defender,Crystal Palace,14,LIV (H) 0 - 7,-1,90,0,0,0,7,0,0,0,0,0,0,0,9,9.2,1.3,2.0,1.3,-11,11186,4.5
+Ryan Fraser,Midfielder,Newcastle,14,FUL (H) 1 - 1,1,11,0,0,0,0,0,0,0,0,0,0,0,3,1.2,1.6,0.0,0.3,1458,15676,5.6
+Billy Sharp,Forward,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-109,9455,5.6
+Fabián Balbuena,Defender,West Ham,14,CHE (A) 3 - 0,1,90,0,0,0,3,0,0,0,0,0,0,0,11,17.2,0.5,2.0,2.0,-26027,149063,4.5
+Nampalys Mendy,Midfielder,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-11492,212438,4.5
+Dean Henderson,Goalkeeper,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1358,113050,5.3
+Daniel James,Midfielder,Man Utd,14,LEE (H) 6 - 2,6,90,1,0,0,2,0,0,0,1,0,0,0,22,40.2,12.7,42.0,9.5,-178,17230,6.2
+Federico Fernández,Defender,Newcastle,14,FUL (H) 1 - 1,1,45,0,0,0,1,0,0,0,0,0,0,0,6,15.2,0.1,2.0,1.7,-69,58929,4.8
+Chris Basham,Defender,Sheffield Utd,14,BHA (A) 1 - 1,1,90,0,0,0,1,0,0,0,1,0,0,0,10,28.2,1.0,2.0,3.1,-1636,58608,4.7
+Karlan Grant,Forward,West Brom,14,AVL (H) 0 - 3,1,82,0,0,0,1,0,0,0,1,0,0,0,2,3.2,6.4,4.0,1.4,-247,3518,5.9
+Issa Diop,Defender,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-409,38727,4.3
+Mathew Ryan,Goalkeeper,Arsenal,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-40082,932077,4.4
+Aaron Connolly,Forward,Brighton,14,SHU (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,-1,2.0,12.0,34.0,4.8,-1589,32454,5.3
+Dennis Praet,Midfielder,Leicester,14,TOT (A) 0 - 2,1,6,0,0,0,0,0,0,0,0,0,0,0,3,1.2,0.3,0.0,0.2,-2387,21309,5.4
+Robin Koch,Defender,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-5298,35375,4.4
+Nathaniel Phillips,Defender,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-4614,59661,4.0
+Enda Stevens,Defender,Sheffield Utd,14,BHA (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,9,14.4,0.9,4.0,1.9,-2640,91013,5.1
+Jayden Bogle,Defender,Sheffield Utd,14,BHA (A) 1 - 1,7,36,1,0,0,1,0,0,0,0,0,0,0,16,40.0,0.1,17.0,5.7,-85,4742,4.3
+Edward Nketiah,Forward,Arsenal,14,EVE (A) 2 - 1,2,75,0,0,0,2,0,0,0,0,0,0,0,3,0.0,0.3,27.0,2.7,440,42821,5.5
+Tyrick Mitchell,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-48312,1196474,4.0
+Thiago Alcántara do Nascimento,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1734,58896,5.7
+Tariq Lamptey,Defender,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,23004,842102,4.8
+Scott Dann,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3311,59327,4.4
+Allan Marques Loureiro,Midfielder,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-4527,64440,5.3
+Sean Longstaff,Midfielder,Newcastle,14,FUL (H) 1 - 1,3,90,0,0,0,1,0,0,0,0,0,0,1,24,30.0,13.9,7.0,5.1,18,6718,4.7
+Jack Stephens,Defender,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-502,14136,4.7
+Grady Diangana,Midfielder,West Brom,14,AVL (H) 0 - 3,2,77,0,0,0,1,0,0,0,0,0,0,0,9,4.2,2.3,0.0,0.7,-878,19605,5.2
+Romaine Sawyers,Midfielder,West Brom,14,AVL (H) 0 - 3,2,90,0,0,0,3,0,0,0,0,0,0,0,16,12.6,5.4,0.0,1.8,-75,2558,4.8
+Rhian Brewster,Forward,Sheffield Utd,14,BHA (A) 1 - 1,1,53,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.0,0.0,0.0,-5582,482162,4.5
+Ahmed El Mohamady,Defender,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4128,26327,4.3
+Martin Dubravka,Goalkeeper,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-175,12262,4.9
+Matt Ritchie,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,90,0,0,0,1,1,0,0,0,0,0,0,5,8.6,43.3,11.0,6.3,-21,3322,4.9
+Nemanja Matic,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-200,16014,4.8
+Sander Berge,Midfielder,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1919,13789,5.0
+Giovani Lo Celso,Midfielder,Spurs,14,LEI (H) 0 - 2,1,48,0,0,0,1,0,0,0,0,0,0,0,6,13.8,0.7,0.0,1.5,1078,36214,6.9
+Steven Alzate,Midfielder,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-569,47890,4.3
+Andy Carroll,Forward,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-221,21356,5.2
+Cédric Soares,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-192,12764,4.6
+Pablo Marí,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-13,1010,4.4
+Gabriel Teodoro Martinelli Silva,Midfielder,Arsenal,14,EVE (A) 2 - 1,1,19,0,0,0,0,0,0,0,0,0,0,0,2,1.4,1.8,6.0,0.9,255,2439,4.9
+Kortney Hause,Defender,Aston Villa,14,WBA (A) 0 - 3,5,90,0,0,1,0,0,0,0,1,0,0,0,21,16.0,1.1,2.0,1.9,471,3722,4.4
+Nathaniel Clyne,Defender,Crystal Palace,14,LIV (H) 0 - 7,-2,90,0,0,0,7,0,0,0,1,0,0,0,5,8.4,5.7,0.0,1.4,-2967,24289,4.5
+Javier Manquillo,Defender,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-271,19759,4.3
+Dwight Gayle,Forward,Newcastle,14,FUL (H) 1 - 1,1,15,0,0,0,0,0,0,0,0,0,0,0,3,0.6,2.5,0.0,0.3,172,3007,5.9
+Tom Cairney,Midfielder,Fulham,14,NEW (A) 1 - 1,2,64,0,0,0,1,0,0,0,0,0,0,0,4,1.8,21.4,36.0,5.9,-650,10200,5.3
+Nathan Aké,Defender,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3347,258180,5.4
+Eric Bailly,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-57,12897,4.9
+Emil Krafth,Defender,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-81,4707,4.3
+Kean Bryan,Defender,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3168,14221,3.9
+Ibrahima Diallo,Midfielder,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-54,1475,4.5
+Erik Lamela,Midfielder,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-125,8300,5.7
+Ryan Fredericks,Defender,West Ham,14,CHE (A) 3 - 0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,-163,16463,4.2
+Manuel Lanzini,Midfielder,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-69,7396,6.4
+Ricardo Domingos Barbosa Pereira,Defender,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-304,6265,5.9
+Joe Rodon,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-188,1929,5.0
+Mark Noble,Midfielder,West Ham,14,CHE (A) 3 - 0,2,90,0,0,0,3,0,0,0,0,0,0,0,13,7.4,3.9,6.0,1.7,-682,32003,4.6
+Robin Olsen,Goalkeeper,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664,4782,4.5
+Xherdan Shaqiri,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-56,3927,6.4
+Sergio Agüero,Forward,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7838,105230,10.3
+Ben Johnson,Defender,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7876,190906,3.9
+Jack Cork,Midfielder,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-13,1135,5.0
+Kepa Arrizabalaga,Goalkeeper,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1012,47335,4.7
+Christian Fuchs,Defender,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-2403,30679,4.5
+Donny van de Beek,Midfielder,Man Utd,14,LEE (H) 6 - 2,1,19,0,0,0,1,0,0,0,0,0,0,0,8,12.2,10.3,0.0,2.3,-2649,124747,6.7
+Jake Livermore,Midfielder,West Brom,14,AVL (H) 0 - 3,-2,36,0,0,0,3,0,0,0,0,1,0,0,-5,0.0,1.1,4.0,0.1,-61,4801,4.7
+Jacob Ramsey,Midfielder,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-43,6614,4.5
+Fabian Schär,Defender,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,249,4873,4.9
+Pablo Hernández Domínguez,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1202,20962,5.7
+Alex Nicolao Telles,Defender,Man Utd,14,LEE (H) 6 - 2,1,30,0,0,0,1,0,0,0,0,0,0,0,5,11.6,28.3,17.0,5.7,-7966,118180,5.5
+Vitor Ferreira,Midfielder,Wolves,14,BUR (A) 2 - 1,1,14,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.8,0.0,0.1,99,2316,4.8
+Conor Hourihane,Midfielder,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-245,9969,6.0
+Marvelous Nakamba,Midfielder,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4495,49633,4.3
+James McCarthy,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-2418,86420,4.4
+Daniel Amartey,Defender,Leicester,14,TOT (A) 0 - 2,1,30,0,0,0,0,0,0,0,0,0,0,0,4,2.4,0.6,0.0,0.3,-454,60004,3.9
+Juan Mata,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-287,11571,5.9
+Fraser Forster,Goalkeeper,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1687,292681,4.0
+Branislav Ivanovic,Defender,West Brom,14,AVL (H) 0 - 3,0,12,0,0,0,2,0,0,0,0,0,0,0,4,3.2,0.1,0.0,0.3,-506,10179,4.5
+Keinan Davis,Forward,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1165,555406,4.3
+Alireza Jahanbakhsh,Midfielder,Brighton,14,SHU (H) 1 - 1,1,45,0,0,0,1,0,0,0,0,0,0,0,4,4.6,27.3,31.0,6.3,-18,2722,5.4
+Bernard Anício Caldeira Duarte,Midfielder,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-324,10003,5.8
+Paul Dummett,Defender,Newcastle,14,FUL (H) 1 - 1,2,78,0,0,0,1,0,0,0,0,0,0,0,6,2.0,1.1,0.0,0.3,-12,939,4.4
+Nathan Tella,Midfielder,Southampton,14,MCI (H) 0 - 1,1,49,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.3,0.0,0.0,-724,33682,4.4
+Bamidele Alli,Midfielder,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-314,42446,7.4
+Fernando Marçal,Defender,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1856,11733,4.8
+Calum Chambers,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,30,1343,4.5
+Jamie Shackleton,Midfielder,Leeds,14,MUN (A) 6 - 2,1,45,0,0,0,2,0,0,0,0,0,0,0,3,9.8,1.4,0.0,1.1,4,2172,4.8
+Filip Krovinovic,Midfielder,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-58,957,5.0
+Luke Thomas,Defender,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-245,14165,4.2
+Cengiz Ünder,Midfielder,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-331,5505,5.9
+Andriy Yarmolenko,Midfielder,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-74,5598,5.6
+Jonathan Castro Otto,Defender,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-18,1562,5.4
+James Tomkins,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,27,0,0,0,3,0,0,0,0,0,0,0,4,3.0,0.0,0.0,0.3,-12,1700,4.5
+Virgil van Dijk,Defender,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-5548,559460,6.3
+Naby Keita,Midfielder,Liverpool,14,CRY (A) 0 - 7,3,90,0,0,1,0,0,0,0,0,0,0,0,18,18.2,16.1,0.0,3.4,-93,15910,5.2
+Harry Winks,Midfielder,Spurs,14,LEI (H) 0 - 2,0,26,0,0,0,0,0,0,0,1,0,0,0,-1,1.6,1.8,0.0,0.3,-105,7978,5.2
+Kevin Long,Defender,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-408,14338,4.4
+Joe Bryan,Defender,Fulham,14,NEW (A) 1 - 1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,-688,27152,4.6
+Robert Snodgrass,Midfielder,West Brom,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-86,5506,5.7
+Hal Robson-Kanu,Forward,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-182,6944,5.2
+Hamza Choudhury,Midfielder,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-46,4311,4.7
+Ian Carlo Poveda-Ocampo,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1196,27704,4.4
+Alex Oxlade-Chamberlain,Midfielder,Liverpool,14,CRY (A) 0 - 7,4,15,0,1,0,0,0,0,0,0,0,0,0,14,18.6,11.3,0.0,3.0,192,2586,6.3
+DeAndre Yedlin,Defender,Newcastle,14,FUL (H) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,15,14.0,17.0,2.0,3.3,-166,16099,4.3
+Jack Robinson,Defender,Sheffield Utd,14,BHA (A) 1 - 1,2,90,0,0,0,1,0,0,0,0,0,0,0,9,10.2,0.3,0.0,1.1,-240,9981,4.3
+Lys Mousset,Forward,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,94,5237,5.8
+Daniel N'Lundulu,Forward,Southampton,14,MCI (H) 0 - 1,1,8,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.1,0.0,0.0,8,8771,4.5
+Carlos Vinicius Alves Morais,Forward,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-100,3484,6.9
+Shane Long,Forward,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1374,44313,5.2
+Adrián San Miguel del Castillo,Goalkeeper,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-659,30524,4.3
+Josh Benson,Midfielder,Burnley,14,WOL (H) 2 - 1,1,3,0,0,0,1,0,0,0,0,0,0,0,-1,0.0,0.0,0.0,0.0,-48,1557,4.5
+Caoimhin Kelleher,Goalkeeper,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-4233,15667,4.5
+Joseph Gomez,Defender,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-2600,100323,5.3
+Neco Williams,Defender,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1078,416867,4.0
+Divock Origi,Forward,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-434,46209,5.2
+Matthew Longstaff,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-12,1387,4.9
+Mohammed Salisu,Defender,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-80,6044,4.3
+Ki-Jana Hoever,Defender,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-63,2868,4.4
+Davy Pröpper,Midfielder,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-8,2548,4.8
+Max Lowe,Defender,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-85,4352,4.4
+Owen Otasowie,Midfielder,Wolves,14,BUR (A) 2 - 1,0,59,0,0,0,2,0,0,0,1,0,0,0,-1,3.2,1.2,0.0,0.4,238,1824,4.5
+Jimmy Dunne,Defender,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-972,467423,3.9
+Dale Stephens,Midfielder,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-13321,371672,4.3
+Josh Onomah,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-81,3117,4.7
+Aboubakar Kamara,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-24,3703,4.8
+Japhet Tanganga,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-148,3214,4.9
+Kamil Grosicki,Midfielder,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-26,2327,5.3
+Morgan Gibbs-White,Midfielder,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-15,426,4.9
+Emerson Palmieri dos Santos,Defender,Chelsea,14,WHU (H) 3 - 0,6,80,0,0,1,0,0,0,0,0,0,0,0,19,11.2,7.0,2.0,2.0,-164,10118,4.7
+Fabian Delph,Midfielder,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-95,2961,4.9
+Tim Ream,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-258,9853,4.3
+Darren Randolph,Goalkeeper,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-132,14938,4.4
+Andi Zeqiri,Forward,Brighton,14,SHU (H) 1 - 1,1,18,0,0,0,0,0,0,0,0,0,0,0,3,0.0,4.3,14.0,1.8,-51,2996,5.0
+Neeskens Kebano,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-67,3465,4.7
+Rhys Williams,Defender,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,17391,25204,4.0
+Ahmed El-Sayed Hegazy,Defender,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-553,12895,4.1
+Bernardo Fernandes da Silva Junior,Defender,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-6529,612086,3.9
+Billy Gilmour,Midfielder,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,68,8630,4.4
+Jonjoe Kenny,Defender,Everton,14,ARS (H) 2 - 1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,0.0,0.1,-40,8212,4.3
+William Smallbone,Midfielder,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-437,16287,4.4
+Kieran Gibbs,Defender,West Brom,14,AVL (H) 0 - 3,1,90,0,0,0,3,0,0,0,0,0,0,0,12,13.8,0.7,0.0,1.5,126,15155,4.3
+Kyle Edwards,Midfielder,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-34,1824,4.7
+Charlie Austin,Forward,West Brom,14,AVL (H) 0 - 3,1,13,0,0,0,2,0,0,0,0,0,0,0,3,0.0,0.1,2.0,0.2,52,15670,5.1
+Mamadou Sakho,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1386,16371,4.4
+Cenk Tosun,Forward,Everton,14,ARS (H) 2 - 1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,-33,1945,6.0
+Eric Garcia,Defender,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-623,13134,4.8
+Phil Jagielka,Defender,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,361,44030,4.0
+Shkodran Mustafi,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-40,3369,5.0
+Bailey Peacock-Farrell,Goalkeeper,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,684,119640,4.0
+Anthony Gordon,Midfielder,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,431,75132,4.3
+Wes Morgan,Defender,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-119,9952,4.4
+Jack O'Connell,Defender,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-234,10739,4.8
+Yan Valery,Defender,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-51,4719,4.7
+Sam Field,Midfielder,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-28,1105,4.8
+Sead Kolasinac,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-295,10374,4.8
+Reiss Nelson,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-88,3317,5.2
+Phil Bardsley,Defender,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-456,14631,4.5
+Lewis Richardson,Forward,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-53,6202,4.5
+João Virgínia,Goalkeeper,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-55,5575,4.4
+Moise Kean,Forward,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-94,15739,5.8
+Terence Kongolo,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,136,4.3
+Francisco Casilla Cortés,Goalkeeper,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1505,74588,4.3
+Leif Davis,Defender,Leeds,14,MUN (A) 6 - 2,1,18,0,0,0,0,0,0,0,0,0,0,0,4,2.8,0.3,0.0,0.3,72,97154,3.9
+Zack Steffen,Goalkeeper,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-8,2121,4.5
+Axel Tuanzebe,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-299,7407,4.2
+Brandon Williams,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1007,54046,4.2
+David Button,Goalkeeper,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1335,347438,4.0
+Lee Peltier,Defender,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-179,3796,4.0
+Rekeem Harper,Midfielder,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1050,32393,4.4
+Felipe Anderson Pereira Gomes,Midfielder,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-61,9751,6.1
+Rúnar Alex Rúnarsson,Goalkeeper,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-53,2711,4.5
+Wesley Moraes,Forward,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,776,6.0
+José Izquierdo,Midfielder,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,175,5.5
+Jayson Molumby,Midfielder,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-19,1216,4.5
+Willy Caballero,Goalkeeper,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-220,16103,4.7
+Niels Nkounkou,Defender,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1052,20738,4.0
+Jean-Philippe Gbamin,Midfielder,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,184,5.0
+Marek Rodák,Goalkeeper,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-294,24922,4.3
+Maxime Le Marchand,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,5996,4.2
+Denis Odoi,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-49,4669,4.3
+Demarai Gray,Midfielder,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-95,5842,5.2
+Islam Slimani,Forward,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-180,5601,5.0
+Konstantinos Tsimikas,Defender,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-103,2822,4.9
+Liam Delap,Forward,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,171,82914,4.4
+Odion Ighalo,Forward,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-137,14227,6.1
+Elliot Anderson,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,76,725,4.5
+Jake Vokins,Defender,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1117,79084,4.0
+Michael Obafemi,Forward,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1318,73096,4.6
+John Ruddy,Goalkeeper,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-317,19856,4.4
+Oskar Buur,Defender,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,164,189353,3.9
+Rúben Gonçalo Silva Nascimento Vinagre,Defender,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-2029,72551,4.1
+Matt Macey,Goalkeeper,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3480,131830,4.0
+Sokratis Papastathopoulos,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-42,4977,4.8
+William Saliba,Defender,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-384,52984,4.0
+Mesut Özil,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-197,43696,6.8
+Lucas Torreira,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-48,6913,4.7
+Matteo Guendouzi,Midfielder,Arsenal,14,EVE (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-51,4977,4.7
+Tom Heaton,Goalkeeper,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,143,3238,4.5
+Jed Steer,Goalkeeper,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-2917,391105,4.0
+Ørjan Nyland,Goalkeeper,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-14973,516383,4.0
+Bjorn Engels,Defender,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,4958,4.4
+James Bree,Defender,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,516,4.5
+Frédéric Guilbert,Defender,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-44,6120,4.3
+Henri Lansbury,Midfielder,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-185,8913,4.3
+José Ignacio Peleteiro Romallo,Midfielder,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-25,3427,5.9
+Mbwana Samatta,Forward,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-14,2938,5.9
+Indiana Vassilev,Forward,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-592,49193,4.3
+Christian Walton,Goalkeeper,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,910,90681,4.0
+Jason Steele,Goalkeeper,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-385,61026,4.0
+Shane Duffy,Defender,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-17,3137,4.3
+Martín Montoya,Defender,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-7,633,4.5
+Matthew Clarke,Defender,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3,377,4.4
+Aaron Mooy,Midfielder,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-4,897,5.0
+Glenn Murray,Forward,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-35,7202,4.8
+Florin Andone,Forward,Brighton,14,SHU (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-52,5534,4.8
+Will Norris,Goalkeeper,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,123,7866,4.0
+Ben Gibson,Defender,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-220,10643,3.9
+Bobby Thomas,Defender,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-434,40450,4.0
+Anthony Driscoll-Glennon,Defender,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-24,6228,4.0
+Mace Goodridge,Midfielder,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-24,714,4.5
+Max Thompson,Forward,Burnley,14,WOL (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-207,5776,4.5
+Karlo Ziger,Goalkeeper,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2117,26518,4.0
+Fikayo Tomori,Defender,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-215,17636,4.7
+Faustino Anjorin,Midfielder,Chelsea,14,WHU (H) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16,90,4.5
+Wayne Hennessey,Goalkeeper,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-669,27749,4.3
+Stephen Henderson,Goalkeeper,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1683,34438,4.0
+Jack Butland,Goalkeeper,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-32,2907,4.5
+Martin Kelly,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1490,24600,4.2
+Nathan Ferguson,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,560,55491,3.9
+Sam Woods,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-553,49832,4.0
+Ryan Inniss,Defender,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-25,3862,4.0
+Max Meyer,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-16,3032,4.7
+Brandon Pierrick,Midfielder,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-23,8450,4.4
+Connor Wickham,Forward,Crystal Palace,14,LIV (H) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,513,44153,4.4
+Jonas Lössl,Goalkeeper,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,50,9399,4.3
+Jarrad Branthwaite,Defender,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1400,163722,3.9
+Ellis Simms,Forward,Everton,14,ARS (H) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,125,5044,4.5
+Fabricio Agosto Ramírez,Goalkeeper,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-191,126441,4.0
+Marcus Bettinelli,Goalkeeper,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-40,2361,4.4
+Michael Hector,Defender,Fulham,14,NEW (A) 1 - 1,0,25,0,0,0,0,0,0,0,1,0,0,0,-1,2.0,0.0,0.0,0.2,-61,11463,4.2
+Cyrus Christie,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-55,2570,4.3
+Alfie Mawson,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-7,669,4.3
+Zeze Steven Sessegnon,Defender,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-34,3211,4.3
+Kevin McDonald,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-32,1774,4.7
+Stefan Johansen,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-18,1304,4.7
+Anthony Knockaert,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-41,2688,5.1
+Jean Michaël Seri,Midfielder,Fulham,14,NEW (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-51,2654,4.6
+Danny Ward,Goalkeeper,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-143,13887,4.4
+Filip Benkovic,Defender,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-11,1792,4.3
+Adrien Silva,Midfielder,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-286,19628,4.4
+Matty James,Midfielder,Leicester,14,TOT (A) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-682,24489,4.3
+Kamil Miazek,Goalkeeper,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1898,95530,4.0
+Elia Caprile,Goalkeeper,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-148,24989,4.0
+Barry Douglas,Defender,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3384,375888,3.8
+Oliver Casey,Defender,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1686,109093,3.9
+Adam Forshaw,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-3,580,4.8
+Jay-Roy Grot,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-21,1577,4.7
+Jordan Stevens,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-575,38407,4.3
+Mateusz Bogusz,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-47,955,4.4
+Jack Jenkins,Midfielder,Leeds,14,MUN (A) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-15,810,4.5
+Harry Wilson,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-22,2093,5.1
+Harvey Elliott,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-74,8543,4.3
+Leighton Clarkson,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,225,4.5
+Jake Cain,Midfielder,Liverpool,14,CRY (A) 0 - 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,56,4.5
+Claudio Bravo,Goalkeeper,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-14,1830,4.5
+James Trafford,Goalkeeper,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,495,6818,4.0
+Scott Carson,Goalkeeper,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,4.0
+Nicolás Otamendi,Defender,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-105,16053,4.9
+Tommy Doyle,Midfielder,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,48,7394,4.4
+Adrián Bernabé,Midfielder,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,875,4.5
+Cole Palmer,Midfielder,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,1038,4.5
+Felix Nmecha,Midfielder,Man City,14,SOU (A) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,4.5
+Sergio Romero,Goalkeeper,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-45,6089,4.9
+Lee Grant,Goalkeeper,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,307,2320,4.0
+Chris Smalling,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-51,6864,4.9
+Marcos Rojo,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-58,4044,4.8
+Phil Jones,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-13,2681,4.9
+Timothy Fosu-Mensah,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-103,6845,4.3
+José Diogo Dalot Teixeira,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-20,2306,4.8
+Teden Mengi,Defender,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1219,75156,3.9
+Andreas Pereira,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-19,2629,4.8
+Tahith Chong,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-14,923,4.5
+James Garner,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-56,3703,4.4
+Facundo Pellistri,Midfielder,Man Utd,14,LEE (H) 6 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-10,496,5.2
+Mark Gillespie,Goalkeeper,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-108,6163,4.4
+Daniel Langley,Goalkeeper,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,541,1451,4.0
+Florian Lejeune,Defender,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-13,972,4.3
+Kelland Watts,Defender,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-110,14816,4.0
+Christian Atsu,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-36,2464,5.2
+Rolando Aarons,Midfielder,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-42,2435,4.8
+Yoshinori Muto,Forward,Newcastle,14,FUL (H) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-79,7714,4.8
+Simon Moore,Goalkeeper,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-160,8891,4.3
+Wes Foderingham,Goalkeeper,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-109,8151,4.4
+Michael Verrips,Goalkeeper,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,490,24063,4.0
+Luke Freeman,Midfielder,Sheffield Utd,14,BHA (A) 1 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-16,385,5.0
+Angus Gunn,Goalkeeper,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-229,10220,4.3
+Sofiane Boufal,Midfielder,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-9,1881,5.4
+Josh Sims,Midfielder,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,297,9409,4.3
+Paulo Gazzaniga,Goalkeeper,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-230,18650,4.3
+Joe Hart,Goalkeeper,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-513,48705,4.3
+Danny Rose,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-135,12193,4.7
+Ryan Sessegnon,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-55,5844,4.7
+Juan Foyth,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-44,4806,4.3
+Cameron Carter-Vickers,Defender,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-69,20515,3.9
+Gedson Carvalho Fernandes,Midfielder,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-59,5493,4.7
+Oliver Skipp,Midfielder,Spurs,14,LEI (H) 0 - 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,25,1824,4.4
+Cedric Kipre,Defender,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-70,3494,4.3
+Jonathan Leko,Midfielder,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-44,1962,4.5
+Kenneth Zohore,Forward,West Brom,14,AVL (H) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-117,2752,4.8
+David Martin,Goalkeeper,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-166,563770,4.0
+Roberto Jimenez Gago,Goalkeeper,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-10,826,4.5
+Jack Wilshere,Midfielder,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-43,4037,4.9
+Jordan Hugill,Forward,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,505,5.5
+Albian Ajeti,Forward,West Ham,14,CHE (A) 3 - 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-1,525,5.5
+Matija Sarkic,Goalkeeper,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-165,7920,4.4
+Ryan Bennett,Defender,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-242,9652,4.4
+Bruno André Cavaco Jordao,Midfielder,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-345,18109,4.3
+Meritan Shabani,Midfielder,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-14,2753,4.5
+Theo Corbeanu,Midfielder,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,4.5
+Taylor Perry,Midfielder,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,4.5
+Léo Bonatini,Forward,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-160,10151,4.8
+Leonardo Campana,Forward,Wolves,14,BUR (A) 2 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-427,22757,4.8
+Neil Taylor,Defender,Aston Villa,14,WBA (A) 0 - 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,-96,14789,4.3
+Kayne Ramsay,Defender,Southampton,14,MCI (H) 0 - 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,274,3938,4.0
