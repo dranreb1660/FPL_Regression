@@ -4,6 +4,15 @@ FPL is an online fantasy game for the English Premier League. For the 2020/2021 
 
 My hypothesis is that given the available player data every week, we can predict points scored for the coming week with enough accuracy, that we would personally use the model as a tool for player selection.
 
+## Data
+
+The data for this project was scrapped directly from the [official fantasy premier league website](https://fantasy.premierleague.com/statistics). Alternatively, the fantasy Premier League team provides an awesome API for the data but I chose the scrapping method for learning purposes
+
+### Tools used for scraping
+
+<em>> Selinum</em><br>
+<em>> BeautifulSoup</em>
+
 ## Directory Structure
 
     .
